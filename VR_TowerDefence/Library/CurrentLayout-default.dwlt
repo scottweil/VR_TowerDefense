@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 95
+  controlID: 93
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 109
+  controlID: 122
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -247,8 +247,8 @@ MonoBehaviour:
     y: 0
     width: 465
     height: 482
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -433,9 +433,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.34582353, y: -0.12738448, z: 1.5083327}
+    m_Target: {x: -2.145071, y: 8.296261, z: 23.121086}
     speed: 2
-    m_Value: {x: 0.34582353, y: -0.12738448, z: 1.5083327}
+    m_Value: {x: -2.145071, y: 8.296261, z: 23.121086}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -482,13 +482,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17671186, y: -0.68928546, z: 0.17919403, w: -0.6794187}
+    m_Target: {x: -0.109111, y: 0.77841914, z: -0.14119805, w: -0.6019149}
     speed: 2
-    m_Value: {x: -0.1767064, y: -0.6892642, z: 0.1791885, w: -0.6793977}
+    m_Value: {x: -0.109106645, y: 0.778388, z: -0.14119242, w: -0.60189086}
   m_Size:
-    m_Target: 0.9286245
+    m_Target: 14.268253
     speed: 2
-    m_Value: 0.9286245
+    m_Value: 14.268253
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -629,7 +629,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 08f4ffffd2f6ffff6efbffffde480000e648000000490000
+      m_ExpandedIDs: 9af0ffff96f9ffff6efbffffbc5000000a51000012510000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -716,22 +716,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Script
+    - Assets/Script/CurvedTeleport
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Script
+  - Assets/Script/CurvedTeleport
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\medici\Documents\GitHub\VR_TowerDefense\VR_TowerDefence
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 232}
-    m_SelectedIDs: 8e490000
-    m_LastClickedID: 18830
-    m_ExpandedIDs: 000000006c4900006e49000070490000724900007449000076490000784900007a49000082490000da490000e4490000144b000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 864a0000
+    m_LastClickedID: 19078
+    m_ExpandedIDs: 00000000604a0000624a0000644a0000664a0000684a00006a4a00006c4a00006e4a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -759,7 +759,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006c4900006e49000070490000724900007449000076490000784900007a490000
+    m_ExpandedIDs: 00000000604a0000624a0000644a0000664a0000684a00006a4a00006c4a00006e4a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -790,18 +790,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 20260100d04300006e270100a67b010040650000b8ae000034650000244c0000203e00006e3d0000885f00006e990000e64000006c99000054480000cc430000d6430000d2430000d0d500009e4300001c5a01001e5a01000000000096d80100181a0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: _Effects
-      m_OriginalName: _Effects
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 18804
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
@@ -847,7 +847,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 184
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
