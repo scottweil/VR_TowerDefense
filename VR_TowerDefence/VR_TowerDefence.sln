@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runtime", "Runtime.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.LipSync", "Oculus.LipSync.csproj", "{6620b28c-9bb6-0445-6b89-2d7591fd724d}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{651b835c-ab25-ba9a-004e-4d249d6c1d74}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.Platform.Editor", "Oculus.Platform.Editor.csproj", "{9f2e7aa7-5cb7-25cf-6ac4-13e07309eca2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.AudioManager.Audio.Editor", "Oculus.AudioManager.Audio.Editor.csproj", "{eba219e8-6c8b-23d6-da64-1c3b360990d8}"
@@ -50,6 +52,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0cde65fe-cdaa-b1b3-5663-2cfadd60c232}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.AudioManager.Utils.Editor", "Oculus.AudioManager.Utils.Editor.csproj", "{6e7543b1-fa03-957f-e140-db20acc68b8a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{afab6ef8-e97b-586f-965a-4c0ad3d27680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -80,6 +84,8 @@ Global
 		{a2064c34-dc43-d7d4-384b-fd72ecf897d3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6620b28c-9bb6-0445-6b89-2d7591fd724d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6620b28c-9bb6-0445-6b89-2d7591fd724d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651b835c-ab25-ba9a-004e-4d249d6c1d74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651b835c-ab25-ba9a-004e-4d249d6c1d74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9f2e7aa7-5cb7-25cf-6ac4-13e07309eca2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9f2e7aa7-5cb7-25cf-6ac4-13e07309eca2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{eba219e8-6c8b-23d6-da64-1c3b360990d8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -106,6 +112,8 @@ Global
 		{0cde65fe-cdaa-b1b3-5663-2cfadd60c232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6e7543b1-fa03-957f-e140-db20acc68b8a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6e7543b1-fa03-957f-e140-db20acc68b8a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{afab6ef8-e97b-586f-965a-4c0ad3d27680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{afab6ef8-e97b-586f-965a-4c0ad3d27680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

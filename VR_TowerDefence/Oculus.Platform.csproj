@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_31;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_31;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;CROSS_PLATFORM_INPUT;USING_XR_MANAGEMENT;USING_XR_SDK_OCULUS;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -47,9 +47,9 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\MatchmakingBrowseResult.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\Camera2DController.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\AssetFileDownloadCancelResult.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\Encoder.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\Party.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\CalApplicationFinalized.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\Encoder.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\AssetFileDownloadUpdate.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\RoomType.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\RichPresenceOptions.cs" />
@@ -79,9 +79,9 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\VoipSampleRate.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\LanguagePackInfo.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\VREyeRaycaster.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\Models\SystemVoipState.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrBoardGame\Scripts\PlatformManager.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrVoiceChat\Scripts\RoomManager.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\Models\SystemVoipState.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\Purchase.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\ServiceProvider.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\KeyValuePairType.cs" />
@@ -119,8 +119,8 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\Callback.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\LivestreamingStartStatus.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\PermissionType.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\VoipInput.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\UserProof.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\VoipInput.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\AchievementDefinition.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\AssetFileDeleteResult.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\AbuseReportType.cs" />
@@ -130,8 +130,8 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\DeserializeableList.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\CallbackRunner.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\CloudStorageUpdateStatus.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\TimeWindow.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\ShareMediaStatus.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\TimeWindow.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\SdkAccount.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\NetSyncVoipAttenuationValue.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\CloudStorageDataStatus.cs" />
@@ -141,16 +141,16 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\LivestreamingStatus.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\MultiplayerErrorErrorKey.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\MatchmakingEnqueueResultAndRoom.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\ChallengeCreationType.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\AchievementType.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\Models\CalApplicationSuggestion.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\ChallengeCreationType.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\PlatformInitializeResult.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\IMicrophone.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\Models\CalApplicationSuggestion.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\StandalonePlatform.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\IMicrophone.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\LeaderboardEntry.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\Product.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\Models\UserReportID.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\Destination.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\Models\UserReportID.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\MatchmakingStats.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\CloudStorageMetadata.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\SendInvitesResult.cs" />
@@ -160,8 +160,8 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\RoomMembershipLockStatus.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\NetSyncConnection.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Packet.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\ApplicationOptions.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\MicrophoneInputNative.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\ApplicationOptions.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\MatchmakingEnqueueResult.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\ChallengeOptions.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\WindowsPlatform.cs" />
@@ -173,8 +173,8 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\Request.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\Room.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\LaunchFriendRequestFlowResult.cs" />
-     <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\LocalPlayer.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\GroupPresenceJoinIntent.cs" />
+     <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\LocalPlayer.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\NetSyncSessionsChangedNotification.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrBoardGame\Scripts\BoardPosition.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\SystemPermission.cs" />
@@ -184,13 +184,13 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\CAPI.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\RemotePlayer.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\PermissionGrantStatus.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\Models\InstalledApplication.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Decoder.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\Models\InstalledApplication.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\UserOptions.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\Team.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\PlatformSettings.cs" />
-     <Compile Include="Assets\Oculus\Platform\Samples\NetChat\DataEntry.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\AIPlayer.cs" />
+     <Compile Include="Assets\Oculus\Platform\Samples\NetChat\DataEntry.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\LivestreamingStartResult.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrBoardGame\Scripts\GameBoard.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\AbuseReportOptions.cs" />
@@ -202,9 +202,9 @@
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\UserCapability.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\StandalonePlatformSettings.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\MediaContentType.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\Models\LivestreamingVideoStats.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\Models\AchievementUpdate.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\RoomOptions.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\Models\AchievementUpdate.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\Models\LivestreamingVideoStats.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\MicrophoneAvailabilityState.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\LaunchUnblockFlowResult.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\SystemVoipStatus.cs" />
@@ -229,12 +229,12 @@
      <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\P2PNetworkGoal.cs" />
      <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\FlyText.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\ChallengeEntry.cs" />
-     <Compile Include="Assets\Oculus\Platform\Scripts\PlatformInternal.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\BufferedAudioStream.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\CloudStorageUpdateResponse.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\Models\NetworkingPeer.cs" />
-     <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\Player.cs" />
+     <Compile Include="Assets\Oculus\Platform\Scripts\PlatformInternal.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\NetSyncOptions.cs" />
+     <Compile Include="Assets\Oculus\Platform\Samples\VrHoops\Scripts\Player.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\LivestreamingMicrophoneStatus.cs" />
      <Compile Include="Assets\Oculus\Platform\Scripts\IVoipPCMSource.cs" />
      <None Include="Assets\Oculus\Platform\Oculus.Platform.asmdef" />
@@ -469,17 +469,17 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="log4netPlastic">
+        <HintPath>C:\Users\medici\Documents\GitHub\VR_TowerDefense\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>C:\Unity_Project\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>C:\Users\medici\Documents\GitHub\VR_TowerDefense\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>C:\Unity_Project\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>C:\Users\medici\Documents\GitHub\VR_TowerDefense\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>C:\Unity_Project\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-        <HintPath>C:\Unity_Project\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+        <HintPath>C:\Users\medici\Documents\GitHub\VR_TowerDefense\VR_TowerDefence\Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -827,10 +827,10 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:\Unity_Project\VR_TowerDefence\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>C:\Users\medici\Documents\GitHub\VR_TowerDefense\VR_TowerDefence\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:\Unity_Project\VR_TowerDefence\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>C:\Users\medici\Documents\GitHub\VR_TowerDefense\VR_TowerDefence\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
